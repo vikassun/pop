@@ -33,5 +33,5 @@
 		
     </ModulePrefs>
 	
-    <Content view="home, canvas" type="html" href="dealroom.htm" preferred_height="600" preferred_width="800"/>
+    <Content view="home, canvas" type="html" href="testMe1.html" preferred_height="600" preferred_width="800"/>
 </Module>
